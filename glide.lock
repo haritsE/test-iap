@@ -1,0 +1,34 @@
+hash: f3407bfb321a5097ee2ca5e63d855b89c900eea313d1f33dba31ed5565543b23
+updated: 2017-04-20T12:56:00.173794679+07:00
+imports:
+- name: github.com/aws/aws-sdk-go
+  version: 3981b48d0eca40d1ce35f20c605b3a153e64b4ad
+- name: github.com/go-sql-driver/mysql
+  version: 9dee4ca50b83acdf57a35fb9e6fb4be640afa2f3
+- name: github.com/gorilla/context
+  version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
+- name: github.com/gorilla/mux
+  version: 94e7d24fd285520f3d12ae998f7fdd6b5393d453
+- name: github.com/guregu/null
+  version: 41961cea0328defc5f95c1c473f89ebf0d1813f6
+- name: github.com/jmoiron/sqlx
+  version: 8ed836a8adb659e8492bcaa49e0880bb84075fe2
+- name: github.com/justinas/alice
+  version: 1051eaf52fcafdd87ead59d28b065f1fcb8274ec
+- name: github.com/kelseyhightower/envconfig
+  version: 8bf4bbfc795e2c7c8a5ea47b707453ed019e2ad4
+- name: github.com/newrelic/go-agent
+  version: 60ed7aa03a85a1355b4189f66e23604de8f27d57
+  subpackages:
+  - internal
+  - internal/jsonx
+  - internal/logger
+  - internal/sysinfo
+  - internal/utilization
+- name: github.com/RackSec/srslog
+  version: a974ba6f7fb527d2ddc73ee9c05d3e2ccc0af0dc
+- name: github.com/satori/go.uuid
+  version: b061729afc07e77a8aa4fad0a2fd840958f1942a
+- name: gopkg.in/go-playground/validator.v9
+  version: 4bd19358521c53f09639f21e2a9d6883d6890f24
+testImports: []

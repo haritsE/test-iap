@@ -1,0 +1,3 @@
+Inventory related
+- Fabric
+- Accessory
